@@ -39,3 +39,15 @@ SELECT <br/>
      website_sessions.website_session_id BETWEEN 1000 AND 2000<br/>
  GROUP BY utm_content<br/>
  ORDER BY sessions DESC;<br/>
+
+<strong>Business Concept - Bid Optimization</strong>
+
+Analyzing for bid optimization is about understanding the value of various segment of paid traffic, so that you can optimize your marketing budget. 
+
+Common Use Cases
+Using conversion rate and revenue per click analyses to figure out how much you should spend per click to acquire customers. 
+Understanding how your website and products performs for various subsegments of traffic  (mobile vs desktop) to otpimize within channels.
+Analyzing the impact that bid changes have on your ranking in the auctions, and the volume of customers driven to your site. 
+
+
+
