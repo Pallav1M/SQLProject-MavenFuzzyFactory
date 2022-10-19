@@ -27,4 +27,15 @@ Note - UTM tracking parameters are used to campaign our paid marketting activiti
 UTM 
  Paid traffic is commonly tagged with UTM parameters, which are appended to URLs and allow us to tie website activity back to specific traffic sources and   campaigns. 
  
- 
+SELECT <br/>
+     website_sessions.utm_content,<br/>
+     COUNT(DISTINCT website_sessions.website_session_id) AS sessions,<br/>
+     COUNT(DISTINCT orders.order_id) AS orders,<br/>
+     COUNT(DISTINCT orders.order_id)/COUNT(DISTINCT website_sessions.website_session_id) as session_to_order_conv_rate<br/>
+ FROM<br/>
+     website_sessions<br/>
+     left join orders on orders.website_session_id = website_sessions.website_session_id<br/>
+ WHERE<br/>
+     website_sessions.website_session_id BETWEEN 1000 AND 2000<br/>
+ GROUP BY utm_content<br/>
+ ORDER BY sessions DESC;<br/>
