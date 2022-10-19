@@ -44,7 +44,7 @@ SELECT <br/>
 
 Analyzing for bid optimization is about understanding the value of various segment of paid traffic, so that you can optimize your marketing budget. 
 
-Common Use Cases
+Common Use Cases <br/>
 Using conversion rate and revenue per click analyses to figure out how much you should spend per click to acquire customers. 
 Understanding how your website and products performs for various subsegments of traffic  (mobile vs desktop) to otpimize within channels.
 Analyzing the impact that bid changes have on your ranking in the auctions, and the volume of customers driven to your site. 
