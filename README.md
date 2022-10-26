@@ -49,7 +49,6 @@ Using conversion rate and revenue per click analyses to figure out how much you 
 Understanding how your website and products performs for various subsegments of traffic  (mobile vs desktop) to otpimize within channels.
 Analyzing the impact that bid changes have on your ranking in the auctions, and the volume of customers driven to your site. 
 
-
 <strong>Business Concept - Analyzing Top Website Content </strong>
 
 Common Use Cases <br/>
@@ -57,7 +56,7 @@ Finding the most viewed pages that customers view on your site.<br/>
 Identifying the most common entry pages to your website. <br/>
 For most viewed pages and most common entry pages, understanding how those pages perform for your business objectives. 
 
-<strong> Landing Page Performnace and Testing </strong>
+<strong>Business Concept - Landing Page Performnace and Testing </strong>
 
 It is about understanding the performance of your key landing pages and testing to improve the results.
 
@@ -66,5 +65,12 @@ Identifying top opportunities for landing pages - high volume pages with higher 
 Setting up A/B experiments on live traffic to see if you can improve your bounce rates and conversion rates. <br/>
 Analyze test results and making recommendations on which version of landing pages you should use going forward. 
 
+<strong>Business Concept - Analyzing and testing conversion funnels </strong>
 
+Conversion funnel analysis is about understanding and optimizing each step of your user's experience on their journey toward purchasing your poduct.
+
+Common Use Cases <br/>
+Identifying the most common paths customers take before purchasing your products <br/>
+Identifying how many of your users continue on to each next step in your conversion flow, and how many users abandon at each step. <br/>
+Optimizing critical pain points where users are abandoning, so that you can convert more users and sell more products. 
 
