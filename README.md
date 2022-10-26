@@ -53,8 +53,8 @@ Analyzing the impact that bid changes have on your ranking in the auctions, and 
 <strong>Business Concept - Analyzing Top Website Content </strong>
 
 Common Use Cases <br/>
-Finding the most viewed pages that customers view on your site.
-Identifying the most common entry pages to your website. 
+Finding the most viewed pages that customers view on your site.<br/>
+Identifying the most common entry pages to your website. <br/>
 For most viewed pages and most common entry pages, understanding how those pages perform for your business objectives. 
 
 <strong> Landing Page Performnace and Testing </strong>
@@ -62,8 +62,8 @@ For most viewed pages and most common entry pages, understanding how those pages
 It is about understanding the performance of your key landing pages and testing to improve the results.
 
 Common Use Cases <br/>
-Identifying top opportunities for landing pages - high volume pages with higher than expected bounce rates or low conversion rates
-Setting up A/B experiments on live traffic to see if you can improve your bounce rates and conversion rates. 
+Identifying top opportunities for landing pages - high volume pages with higher than expected bounce rates or low conversion rates<br/>
+Setting up A/B experiments on live traffic to see if you can improve your bounce rates and conversion rates. <br/>
 Analyze test results and making recommendations on which version of landing pages you should use going forward. 
 
 
